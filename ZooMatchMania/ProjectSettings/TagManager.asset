@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Mergeable
+  - ammo
+  - bronze_coin
+  - bronze_ring
+  - clover
+  - feather
+  - potion_1
+  - sword
+  - scroll
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - GamePiece
+  - Board
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 4051167139
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: NormalTile
+    uniqueID: 3119464877
+    locked: 0
+  - name: breakableTile
+    uniqueID: 2463220899
+    locked: 0
+  - name: Pieces
+    uniqueID: 226443417
+    locked: 0
